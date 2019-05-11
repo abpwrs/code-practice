@@ -315,3 +315,4 @@ build-iPhoneSimulator/
 # End of https://www.gitignore.io/api/c,go,c++,java,ruby,python,haskell
 .exercism
 .idea
+**/node_modules/**
